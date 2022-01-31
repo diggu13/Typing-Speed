@@ -20,7 +20,7 @@ const words = [
     'lost',
     'happy',
     'here',
-    'threrer',
+    'there',
     'onee',
     'helloo'
 ];
