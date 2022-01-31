@@ -18,6 +18,10 @@ button{
     padding: 5px 15px;
 }
 
+.difficulty-label{
+    color: white;
+    font-weight: bold;
+}
 select{
     width: 200px;
     padding: 5px;
